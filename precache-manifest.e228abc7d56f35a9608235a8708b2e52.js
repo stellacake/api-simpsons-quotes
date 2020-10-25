@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3471fdd000ee76329c6feb257d392918",
+    "revision": "98f71ec70a92e0b72d6d1e4ca25170e4",
     "url": "/api-simpsons-quotes/index.html"
   },
   {
-    "revision": "35df538c0f6d4b83a0ed",
+    "revision": "97c9b4680cc86885538b",
     "url": "/api-simpsons-quotes/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/api-simpsons-quotes/static/js/2.1f348512.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "35df538c0f6d4b83a0ed",
-    "url": "/api-simpsons-quotes/static/js/main.f3375664.chunk.js"
+    "revision": "97c9b4680cc86885538b",
+    "url": "/api-simpsons-quotes/static/js/main.ff6d8695.chunk.js"
   },
   {
     "revision": "10562ab1161e078119df",
